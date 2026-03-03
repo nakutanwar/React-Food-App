@@ -1,0 +1,25 @@
+body{
+    background-color: darkcyan;
+    color: #ffffff;
+    text-align: center;
+}
+h4{
+    font-size: 56px;
+}
+
+.btn-container{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+button{
+    background-color: aliceblue;
+    color: black        ;
+    font-size: larger;
+    border: none;
+    border-radius: 10px;
+    min-width: 50px;
+    min-height: 50px;
+    font-weight: bold;
+}
